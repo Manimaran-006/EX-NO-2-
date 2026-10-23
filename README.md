@@ -209,10 +209,10 @@ int main()
 {
     char str[SIZE], key[SIZE];
 
-    strcpy(key, "Manimaran");
+    strcpy(key, "INFOSEC");
     printf("Key text: %s\n", key);
 
-    strcpy(str, "Information Technology");
+    strcpy(str, "CRYPTO IS TOO EASY");
     printf("Plain text: %s\n", str);
 
     encryptByPlayfairCipher(str, key);
@@ -221,13 +221,16 @@ int main()
 
     return 0;
 }
+
+
 ```
 
 
 
 
 Output:
-<img width="1913" height="1085" alt="image" src="https://github.com/user-attachments/assets/7dac6ae5-7667-4dcf-b6a8-9cca761f3021" />
+<img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/19a0bf9f-eebc-428b-b0de-88eadcb86447" />
+
 
 Result:
 Thus the implementation of Playfair cipher had been executed successfully.
