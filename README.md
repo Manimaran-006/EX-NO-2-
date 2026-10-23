@@ -233,4 +233,5 @@ Output:
 
 
 Result:
+
 Thus the implementation of Playfair cipher had been executed successfully.
