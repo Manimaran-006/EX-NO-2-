@@ -1,5 +1,7 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
+## name: Manimaran V
+## reg.no:212224220060
  
 
 ## AIM:
