@@ -231,7 +231,8 @@ int main()
 
 
 Output:
-<img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/19a0bf9f-eebc-428b-b0de-88eadcb86447" />
+
+<img width="383" height="135" alt="image" src="https://github.com/user-attachments/assets/c1cc56e3-e633-4dd0-b67f-4abf8bc56dd1" />
 
 
 Result:
